@@ -1,0 +1,5 @@
+GBT = "countries/Great Bostroe.txt"
+HRT = "countries/Hertogdom Gelre.txt"
+DOL = "countries/Duchy of Leutia"
+COD = "countries/Cornish Duchy"
+KSC = "countries/Kingdom of Southwark Central"

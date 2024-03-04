@@ -1,0 +1,10 @@
+# rename this file to your country name. File name must correspond to your countries name in common/countries_tags ( TAG = "countries/Countrynamehere.txt" )
+
+# Culture is for generals and generic portraits. Color is for map color.
+
+graphical_culture = x 
+graphical_culture_2d = x_2d
+
+#fill in x with graphical culture file names
+
+color = rgb { 255 127 80 }
